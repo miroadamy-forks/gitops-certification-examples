@@ -1,3 +1,3 @@
-module github.com/codefresh-contrib/gitops-certification-examples/simple-web-app
+module github.com/miroadamy-forks/gitops-certification-examples/simple-web-app
 
 go 1.15

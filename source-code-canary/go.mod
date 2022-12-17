@@ -1,3 +1,3 @@
-module github.com/codefresh-contrib/gitops-certification-examples/canary-app
+module github.com/miroadamy-forks/gitops-certification-examples/canary-app
 
 go 1.16
